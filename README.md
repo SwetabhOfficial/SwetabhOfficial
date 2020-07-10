@@ -1,3 +1,4 @@
+<img align="right" width="400" height="600" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif?raw=true">
 ### Hi there, I am Swetabh Suman 👋
 
 - 🔭 I’m currently working on **StudyGrasp** (eLearning Platform)
