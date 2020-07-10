@@ -1,11 +1,11 @@
-<img align="right" width="400" height="600" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif?raw=true">
-### Hi there, I am Swetabh Suman 👋
+<img align="right" width="400" height="400" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif">
+# Hi there, I am Swetabh Suman 👋
 
 - 🔭 I’m currently working on **StudyGrasp** (eLearning Platform)
 - 🌱 I’m looking for some vulnerabilities on HackerOne 
 - 👯 I’m looking to collaborate on StudyGrasp
 - 🤔 I’m **looking for help** with React.js
-- 💬 Ask me about Ethical Hacking or Cyber Security on [Twitter](https://twitter.com/swetabhsuman8)
+- 💬 Ask me about Ethical Hacking or Cyber Security on **[Twitter]**(https://twitter.com/swetabhsuman8)
 - ⚡ Fun fact: I love powerlifting and calisthenics
 
 ### Learn more about me
