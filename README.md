@@ -5,7 +5,7 @@
 - 🌱 I’m looking for some vulnerabilities on HackerOne 
 - 👯 I’m looking to collaborate on StudyGrasp
 - 🤔 I’m **looking for help** with React.js
-- 💬 Ask me about Ethical Hacking or Cyber Security on **[Twitter]**(https://twitter.com/swetabhsuman8)
+- 💬 Ask me about Ethical Hacking or Cyber Security on **[Twitter](https://twitter.com/swetabhsuman8)**
 - ⚡ Fun fact: I love powerlifting and calisthenics
 
 ### Learn more about me
