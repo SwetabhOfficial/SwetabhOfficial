@@ -7,7 +7,7 @@
 - 💬 Ask me about Ethical Hacking or Cyber Security on [Twitter](https://twitter.com/swetabhsuman8)
 - ⚡ Fun fact: I love powerlifting and calisthenics
 
-<img align="left" width="100" height="100" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif?raw=true">
+<img align="right" width="400" height="800" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif?raw=true">
 
 ### Learn more about me
 <a href="https://twitter.com/swetabhsuman8">
