@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **StudyGrasp** (eLearning Platform)
 - 🌱 I’m looking for some vulnerabilities on HackerOne 
-- 👯 I’m looking to collaborate on StudyGrasp
+- 👯 Contributing to **[WordPress](https://wordpress.org)** & **[Covid-Warriors](https://covidwarriors.gov.in)**
 - 🤔 I’m **looking for help** with React.js
 - 💬 Ask me about Ethical Hacking or Cyber Security on **[Twitter](https://twitter.com/swetabhsuman8)**
 - ⚡ Fun fact: I love powerlifting and calisthenics
