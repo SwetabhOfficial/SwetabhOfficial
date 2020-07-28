@@ -2,7 +2,7 @@
 <img align="right" width="250" height="500" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif">
 
 - 🔭 I’m currently working on **StudyGrasp** (eLearning Platform)
-- 🌱 I’m looking for some vulnerabilities on HackerOne 
+- 🌱 Working as security researcher on HackerOne (Part time) 
 - 👯 Contributing to **[WordPress](https://wordpress.org)** & **[Covid-Warriors](https://covidwarriors.gov.in)**
 - 🤔 I’m **looking for help** with React.js
 - 💬 Ask me about Ethical Hacking or Cyber Security on **[Twitter](https://twitter.com/swetabhsuman8)**
