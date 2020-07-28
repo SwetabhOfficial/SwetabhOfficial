@@ -1,4 +1,6 @@
 ### Hi there, I am Swetabh Suman 👋
+ <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
+</a>
 <img align="right" width="250" height="500" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif">
 
 - 🔭 I’m currently working on **StudyGrasp** (eLearning Platform)
@@ -25,8 +27,4 @@
 
 <a href="https://github.com/swetabhsuman8">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swetabhsuman8&show_icons=true&include_all_commits=true&theme=radical" alt="Swetabh's github stats" />
-</a>
-<a href="https://github.com/swetabhsuman8">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
 </a>
