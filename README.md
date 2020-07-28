@@ -2,7 +2,7 @@
 <a href="https://github.com/swetabhsuman8">
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swetabhsuman8&show_icons=true&include_all_commits=true&theme=radical" alt="Swetabh's github stats" />
 </a>
-<img align="right" width="400" height="500" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&hide=html&theme=radical" />
+<img align="right" width="600" height="250" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
 </a>
 
 
