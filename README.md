@@ -5,7 +5,7 @@
 - 🌱 Working as a security researcher on HackerOne (Part time) 
 - 👯 Contributing to **[WordPress](https://wordpress.org)** & **[Covid-Warriors](https://covidwarriors.gov.in)**
 - 🤔 I’m **looking for help** with React.js
-- 💬 Ask me about Ethical Hacking or Cyber Security on **[Twitter](https://twitter.com/swetabhsuman8)**
+- 💬 Ask me about Ethical Hacking or Cyber Security on **[YouTube](https://www.youtube.com/c/SwetabhSuman)**
 - ⚡ Fun fact: I love powerlifting and calisthenics
 
 ### Learn more about me
