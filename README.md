@@ -1,7 +1,10 @@
 ### Hi there, I am Swetabh Suman 👋
- <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
+<a href="https://github.com/swetabhsuman8">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swetabhsuman8&show_icons=true&include_all_commits=true&theme=radical" alt="Swetabh's github stats" />
 </a>
-<img align="right" width="250" height="500" src="https://github.com/Swetabhsuman8/Swetabhsuman8/blob/master/files/dancegif.gif">
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
+</a>
+
 
 - 🔭 I’m currently working on **StudyGrasp** (eLearning Platform)
 - 🌱 Working as a security researcher on HackerOne (Part time) 
@@ -23,8 +26,3 @@
 <a href="https://www.linkedin.com/in/swetabh-suman-3343a2120/">
   <img align="left" alt="swetabh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Swetabhsuman8/Swetabhsuman8/master/files/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png" />
 </a><br><br>
-
-
-<a href="https://github.com/swetabhsuman8">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swetabhsuman8&show_icons=true&include_all_commits=true&theme=radical" alt="Swetabh's github stats" />
-</a>
