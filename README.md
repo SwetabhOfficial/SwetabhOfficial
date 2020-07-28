@@ -1,5 +1,5 @@
 ### Hi there, I am Swetabh Suman 👋
-<img align="right" width="598" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
+<img align="right" width="410" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/swetabhsuman8">
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Swetabhsuman8&show_icons=true&include_all_commits=true&theme=radical" alt="Swetabh's github stats" />
