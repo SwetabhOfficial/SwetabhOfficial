@@ -28,5 +28,5 @@
 </a>
 <a href="https://github.com/swetabhsuman8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
 </a>
