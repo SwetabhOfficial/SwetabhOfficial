@@ -26,4 +26,4 @@
 ![Swetabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swetabhsuman8&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=dark)](https://github.com/swetabhsuman8)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
