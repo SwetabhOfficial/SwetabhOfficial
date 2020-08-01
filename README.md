@@ -1,4 +1,4 @@
-### Hi there, I am Swetabh Suman 👋
+# Hi there, I am Swetabh Suman 👋
 <img align="right" width="410" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetabhsuman8&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/swetabhsuman8">
@@ -26,7 +26,7 @@
   <img align="left" alt="swetabh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Swetabhsuman8/Swetabhsuman8/master/files/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png" />
 </a><br><br>
 
-### Visitor count
+## Visitor count
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/Swetabhsuman8/count.svg" />
 </p>
