@@ -10,7 +10,7 @@
 - 👯 Contributing to **[WordPress](https://wordpress.org)** & **[Covid-Warriors](https://covidwarriors.gov.in)**
 - 🤔 I’m **looking for help** with React.js
 - 💬 Ask me about Ethical Hacking or Cyber Security on **[YouTube](https://www.youtube.com/c/SwetabhSuman)**
-- ⚡ Fun fact: I love powerlifting and calisthenics
+- ⚡ Fun fact: NO Fact
 
 ### Learn more about me
 <a href="https://twitter.com/swetabhsuman8">
