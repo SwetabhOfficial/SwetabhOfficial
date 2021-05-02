@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/swetabh-suman-3343a2120/">
   <img align="left" alt="swetabh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Swetabhsuman8/Swetabhsuman8/master/files/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png" />
 </a><br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&theme=onedark)](https://github.com/SwetabhOfficial/github-profile-trophy)
 
 
 
