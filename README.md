@@ -26,13 +26,12 @@
   <img align="left" alt="swetabh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Swetabhsuman8/Swetabhsuman8/master/files/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png" />
 </a><br><br>
 
-<a href="https://github.com/SwetabhOfficial">
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&title=Stars,Followers" alt="Swetabh's github stats" />
-</a>
-
-
 ## Visitor count
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/SwetabhOfficial/count.svg" />
 </p>
+<br>
+<a href="https://github.com/SwetabhOfficial">
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&title=Stars,Followers" alt="Swetabh's github stats" />
+</a>
 </div>
