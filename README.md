@@ -31,5 +31,6 @@
 <br>
 <a href="https://github.com/SwetabhOfficial">
   <img align="right" src="https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&theme=onedark"/>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SwetabhOfficial&layout=compact&theme=radical" alt="SwetabhOfficial" /></p>
 </a>
 </div>
