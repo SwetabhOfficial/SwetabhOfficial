@@ -32,6 +32,6 @@
 </p>
 <br>
 <a href="https://github.com/SwetabhOfficial">
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=SwetabhOfficial" />
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&theme=onedark"/>
 </a>
 </div>
