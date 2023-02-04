@@ -1,7 +1,5 @@
 # Hi there, I am Swetabh Suman 👋
-<a href="https://github.com/SwetabhOfficial">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SwetabhOfficial&show_icons=true&include_all_commits=true&theme=radical" alt="Swetabh's github stats" />
-</a>
+
 
 
 ## Visitor count
