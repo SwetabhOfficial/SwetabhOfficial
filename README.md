@@ -1,14 +1,9 @@
 # Hi there, I am Swetabh Suman 👋
 
+Swetabh Suman is an IT specialist and troubleshooter with a marketing background. He is also a part of the Infosec websites "The Techrix" and "Hackfluencer," where he publishes cyber security-related content to raise awareness and participates in online CTF (Capture the Flag) games on YouTube.
 
 
 ## Visitor count
 <p align="left"> 
   <img src="https://profile-counter.glitch.me/SwetabhOfficial/count.svg" />
 </p>
-<br>
-<a href="https://github.com/SwetabhOfficial">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=SwetabhOfficial&theme=onedark"/>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SwetabhOfficial&layout=compact&theme=radical" alt="SwetabhOfficial" /></p>
-</a>
-</div>
